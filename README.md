@@ -22,7 +22,7 @@ Below is information about workshops, talks, posters, sessions, town halls, and 
 **PACE workshop — SCIWS15: Working with PACE Satellite Data for Ocean, Atmosphere, and Land Research**
 
 Sunday, 6 December 2026.  
-Time: confirm the final schedule — the planning issue lists **08:00–17:00 PST**, while the published PACE agenda runs **08:30–17:30** without an explicit time zone.  
+Time: **08:30–17:30** 
 Location: San Francisco; see the AGU session page for room details.  
 Details: [AGU workshop session](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423) · [PACE workshop agenda](https://pace.oceansciences.org/events_more.htm?id=94) · [NASA-Openscapes planning issue #190](https://github.com/NASA-Openscapes/workshop-planning/issues/190)
 
