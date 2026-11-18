@@ -72,7 +72,7 @@ South - Poster Hall (Hall ABC) (MC)
 
 Authors: Aimee Renee Neeley, NASA Goddard Space Flight Center; Diane Fritz, National Snow and Ice Data Center (NSIDC), CIRES, University of Colorado Boulder; Mikala Beig, National Snow and Ice Data Center (NSIDC), CIRES, University of Colorado Boulder
 
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
+NASA-Openscapes Mentors and collaborators: Mikala Beig
 
 Session: [IN11B - Connections Foster Evolution in Science and in Science Data Stewardship I Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/285288)
 
