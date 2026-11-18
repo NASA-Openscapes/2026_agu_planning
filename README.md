@@ -30,27 +30,6 @@ Practical training with NASA PACE scientists in finding, processing, and analyzi
 
 ## Monday Dec 7
 
-**Talks**
-
-<details>
-<summary>Talk: V13A-01 Laying the Groundwork: Scaling and Standardizing InSAR Workflows for Volcanic Hazard Monitoring (Invited). 14:15–14:25. First author: Franz Josef Meyer.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2069737>
-
-Authors: Franz Josef Meyer, University of Alaska Fairbanks; Mario Angarita, University of Alaska Fairbanks; Ronni Grapenthin, Geophysical Institute, University of Alaska Fairbanks; Howard A Zebker, Stanford University; Joseph H Kennedy, University of Alaska Fairbanks
-
-NASA-Openscapes Mentors and collaborators: Joe Kennedy
-
-Session: [V13A - From Classical to Quantum: Integrating Established and Emerging Approaches for Volcanic Hazard Monitoring and Forecasting II Oral](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/285258)
-
-Presentation: Monday, 7 December 2026, 14:15–14:25  
-157 - South (MC)
-
-Full session: Monday, 7 December 2026, 14:15–15:45  
-157 - South (MC)
-
-</details>
-
 **Posters**
 
 <details>
@@ -69,21 +48,6 @@ South - Poster Hall (Hall ABC) (MC)
 
 </details>
 
-<details>
-<summary>Poster: G11C-4188 Toward Global Volcano Monitoring with Spaceborne InSAR: Preliminary Deformation Time Series and Workflow Refinement. 08:30–12:00. First author: Arba Shkreli.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2084592>
-
-Authors: Arba Shkreli, Stanford University; Yuan-Kai Liu, Stanford University; Mario Angarita, University of Alaska Fairbanks; Joseph H Kennedy, University of Alaska Fairbanks; Franz Josef Meyer, University of Alaska Fairbanks; Howard A Zebker, Stanford University
-
-NASA-Openscapes Mentors and collaborators: Joe Kennedy
-
-Session: [G11C - Global Applications of Volcano Geodesy Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/280150)
-
-Poster session: Monday, 7 December 2026, 08:30–12:00  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
 
 <details>
 <summary>Poster: H11Q-1700 Large, contrasting changes in aufeis extent in the Brooks Range. 08:30–12:00. First author: Simon Zwieback.</summary>
@@ -165,21 +129,6 @@ South - Poster Hall (Hall ABC) (MC)
 
 </details>
 
-<details>
-<summary>Poster: V11C-3866 VolcSARvatory: InSAR Geodesy for Volcano Monitoring. 08:30–12:00. First author: Mario Angarita.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2072843>
-
-Authors: Mario Angarita, University of Alaska Fairbanks; Joseph H Kennedy, University of Alaska Fairbanks; Franz Josef Meyer, University of Alaska Fairbanks; Ronni Grapenthin, Alaska Volcano Observatory, Geophysical Institute, University of Alaska Fairbanks; Marco Bagnardi, USGS Cascades Volcano Observatory; USGS Cascades Volcano Observatory; Michael P Poland, USGS; Israel Brewster, University of Alaska Fairbanks
-
-NASA-Openscapes Mentors and collaborators: Joe Kennedy
-
-Session: [V11C - From Classical to Quantum: Integrating Established and Emerging Approaches for Volcanic Hazard Monitoring and Forecasting I Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/282727)
-
-Poster session: Monday, 7 December 2026, 08:30–12:00  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
 
 <details>
 <summary>Poster: A13M-0121 Python Notebooks for Comparison of TEMPO, version 4, and Pandora Gas Column Products. 14:15–17:45. First author: Alexander Radkevich.</summary>
@@ -229,86 +178,6 @@ South - Poster Hall (Hall ABC) (MC)
 
 </details>
 
-<details>
-<summary>Poster: B13B-2251 The ESIP Earth Observation for Land Management Collaboration Team &amp; AEOIP: A Collaborative Framework to Address Stakeholder Data Needs and Broaden the Use of NASA Geospatial Products. 14:15–17:45. First author: Sabrina Delgado Arias.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2089960>
-
-Authors: Sabrina Delgado Arias, NASA Goddard Space Flight Center; Elizabeth Embury Hoy, Global Science and Technology Inc Greenbelt; Andrew Lister, U.S. Forest Service; Amanda Hildt Armstrong, Universities Space Research Association; Timothy Assal, US Dept. of Interior; Jessica Burnett, Nasa headquarters; Jenny Hewson, NASA Goddard Space Flight Center; Aimee Renee Neeley, NASA Goddard Space Flight Center; Birgit Peterson, USGS
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Session: [B13B - Advances in Remote Sensing Capabilities Leading to a Better Understanding of Ecosystem and Natural Resource Management III Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284317)
-
-Poster session: Monday, 7 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
-**Sessions**
-
-<details>
-<summary>Session: B11A - Advances in Remote Sensing Capabilities Leading to a Better Understanding of Ecosystem and Natural Resource Management I Oral. 08:30–10:00. Collaborators: Aimee Neeley.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/285024>
-
-Primary Convener: Amanda Whitehurst, NASA Headquarters
-
-Conveners: Amber E Emory, NASA Goddard Space Flight Center; Laura Lorenzoni, NASA Headquarters; Amanda Hildt Armstrong, Universities Space Research Association
-
-Chairs: Amanda Whitehurst, NASA Headquarters; Eleanor C Stokes, NASA Goddard Space Flight Center; Amber E Emory, NASA Goddard Space Flight Center; Elizabeth Embury Hoy, Global Science and Technology Inc Greenbelt
-
-Student/Early Career Convener: Aimee Renee Neeley, NASA Goddard Space Flight Center
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Monday, 7 December 2026, 08:30–10:00  
-3010 - West (MC)
-
-</details>
-
-<details>
-<summary>Session: B12A - Advances in Remote Sensing Capabilities Leading to a Better Understanding of Ecosystem and Natural Resource Management II Oral. 10:30–12:00. Collaborators: Aimee Neeley.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/285025>
-
-Primary Convener: Amanda Whitehurst, NASA Headquarters
-
-Conveners: Amber E Emory, NASA Goddard Space Flight Center; Laura Lorenzoni, NASA Headquarters; Amanda Hildt Armstrong, Universities Space Research Association
-
-Chairs: Amanda Whitehurst, NASA Headquarters; Amanda Hildt Armstrong, Universities Space Research Association; Birgit Peterson, USGS; Andrew Lister, U.S. Forest Service
-
-Student/Early Career Convener: Aimee Renee Neeley, NASA Goddard Space Flight Center
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Monday, 7 December 2026, 10:30–12:00  
-3010 - West (MC)
-
-</details>
-
-<details>
-<summary>Session: B13B - Advances in Remote Sensing Capabilities Leading to a Better Understanding of Ecosystem and Natural Resource Management III Poster. 14:15–17:45. Collaborators: Aimee Neeley.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284317>
-
-Primary Convener: Amanda Whitehurst, NASA Headquarters
-
-Conveners: Amber E Emory, NASA Goddard Space Flight Center; Laura Lorenzoni, NASA Headquarters; Amanda Hildt Armstrong, Universities Space Research Association
-
-Chairs: Amanda Whitehurst, NASA Headquarters; Amber E Emory, NASA Goddard Space Flight Center; Amanda Hildt Armstrong, Universities Space Research Association
-
-Student/Early Career Convener: Aimee Renee Neeley, NASA Goddard Space Flight Center
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Monday, 7 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
-**AGU26: Science After Hours**
-
 Monday, 7 December 2026, 18:00–21:00 PST.  
 Hosted by Valency.  
 Location: San Francisco, next to Moscone Center; register to see the exact address.  
@@ -336,25 +205,6 @@ Presentation: Tuesday, 8 December 2026, 16:59–17:10
 
 Full session: Tuesday, 8 December 2026, 16:15–17:45  
 2020 - West (MC)
-
-</details>
-
-<details>
-<summary>Talk: SY24A-06 Opportunities for Use of ICESat-2 Altimetry Data in State and Municipal Governments. 17:05–17:15. First author: Molly Elizabeth Brown.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2080428>
-
-Authors: Molly Elizabeth Brown, University of Maryland College Park; Aimee Renee Neeley, NASA Goddard Space Flight Center; Denis Felikson, NASA Goddard Space Flight Center; Nathan T Kurtz, NASA Goddard
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Session: [SY24A - Accelerating Impact: User‑Driven Earth Observation Solutions from the Satellite Needs Working Group III Oral](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/285205)
-
-Presentation: Tuesday, 8 December 2026, 17:05–17:15  
-151 - South (MC)
-
-Full session: Tuesday, 8 December 2026, 16:15–17:45  
-151 - South (MC)
 
 </details>
 
@@ -488,48 +338,6 @@ South - Poster Hall (Hall ABC) (MC)
 
 </details>
 
-**Sessions**
-
-<details>
-<summary>Session: NH21A - From Observations to Actionable Science: Assessing Extreme Sea Levels and Coastal Hazards I Oral. 08:30–10:00. Collaborators: Aimee Neeley.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284689>
-
-Primary Convener: Ariadna Martin Oliva, Department of Civil, Environmental, and Construction Engineering &amp; National Center for Integrated Coastal Research, University of Central Florida
-
-Conveners: Aimee Renee Neeley, NASA Goddard Space Flight Center; Sönke Dangendorf, Tulane University; Alejandra R Enriquez, University of South Florida; Meghana Nagaraj, University of Central Florida
-
-Chairs: Ariadna Martin Oliva, Department of Civil, Environmental, and Construction Engineering &amp; National Center for Integrated Coastal Research, University of Central Florida; Aimee Renee Neeley, NASA Goddard Space Flight Center
-
-Student/Early Career Convener: Gabrielle Quadrado, University of Central Florida
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Tuesday, 8 December 2026, 08:30–10:00  
-313-314 - South (MC)
-
-</details>
-
-<details>
-<summary>Session: NH23C - From Observations to Actionable Science: Assessing Extreme Sea Levels and Coastal Hazards II Poster. 14:15–17:45. Collaborators: Aimee Neeley.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284612>
-
-Primary Convener: Ariadna Martin Oliva, Department of Civil, Environmental, and Construction Engineering &amp; National Center for Integrated Coastal Research, University of Central Florida
-
-Conveners: Sönke Dangendorf, Tulane University; Alejandra R Enriquez, University of South Florida; Meghana Nagaraj, University of Central Florida; Aimee Renee Neeley, NASA Goddard Space Flight Center
-
-Chairs: Ariadna Martin Oliva, Department of Civil, Environmental, and Construction Engineering &amp; National Center for Integrated Coastal Research, University of Central Florida; Aimee Renee Neeley, NASA Goddard Space Flight Center
-
-Student/Early Career Convener: Gabrielle Quadrado, University of Central Florida
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley
-
-Tuesday, 8 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
 ## Wednesday Dec 9
 
 **earthaccess hackathon @ AGU 2026**
@@ -597,138 +405,6 @@ Presentation: Wednesday, 9 December 2026, 14:25–14:40
 
 Full session: Wednesday, 9 December 2026, 14:15–15:45  
 203 - South (MC)
-
-</details>
-
-**Posters**
-
-<details>
-<summary>Poster: NS31B-1598 What have we done? A global AEM catalog to democratize data access and enable synthesis studies. 08:30–12:00. First author: Burke J Minsley.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2081584>
-
-Authors: Burke J Minsley, U.S. Geological Survey; Kamini Singha, Colorado School of Mines; Pamela L Sullivan, Oregon State University; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Stephanie R James, U.S. Geological Survey
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Session: [NS31B - Open-Source and AI-Driven Tools in Near-Surface Geophysics Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/282626)
-
-Poster session: Wednesday, 9 December 2026, 08:30–12:00  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
-<details>
-<summary>Poster: ED33C-2419 Expanding Opportunities in Water Science through Data-Informed Community-Building. 14:15–17:45. First author: Lindsay Platt.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2083605>
-
-Authors: Lindsay Platt, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Abner Bogan, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Emily Clark, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Brianna Kearns, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Julia Masterman, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Lisa Mucciacito, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Kimberlee Wong, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Kaysa Vaarre-Lamoureux, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Session: [ED33C - Advances and Progress in Fostering a Supportive Scientific Community for All I Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/281589)
-
-Poster session: Wednesday, 9 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
-<details>
-<summary>Poster: NH33F-2345 An Open-Science Framework Leveraging Commercial Earth Observation Data for Analysis-Ready Surface Water Products. 14:15–17:45. First author: Hannah G Pankratz.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2084159>
-
-Authors: Hannah G Pankratz, University of Alabama in Huntsville; Eric Ross Anderson, NASA Marshall Space Flight Center; Amanda Markert, University of Alabama in Huntsville; Franz Josef Meyer, University of Alaska Fairbanks; Joseph H Kennedy, University of Alaska Fairbanks; Timothy Mayer, University of Alabama in Huntsville; Alexander Melancon, University of Alabama in Huntsville; Micky Maganini, University of Alaska Fairbanks
-
-NASA-Openscapes Mentors and collaborators: Joe Kennedy
-
-Session: [NH33F - Leveraging Commercial Earth Observation Data for Rapid Disaster Response Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/282046)
-
-Poster session: Wednesday, 9 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
-**Sessions**
-
-<details>
-<summary>Session: H31M - Uniting Community Water Resources Modeling and Operational Hydrology: Connecting Research Advances in Large-Domain Hydrologic Modeling, Artificial Intelligence, Hydroinformatics, and Social Science to Forecasting Applications I Oral. 08:30–10:00. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284494>
-
-Primary Convener: Steven J Burian, University of Alabama
-
-Conveners: Martyn P Clark, University of Calgary; Katie van Werkhoven, Research Triangle Institute; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: Steven J Burian, Cooperative Institute for Research to Operations in Hydrology (CIROH), Alabama Water Institute, The University of Alabama, Tuscaloosa, AL; Martyn P Clark, University of Calgary
-
-Student/Early Career Convener: Louise Arnal, Ouranos
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Wednesday, 9 December 2026, 08:30–10:00  
-3016 - West (MC)
-
-</details>
-
-<details>
-<summary>Session: H32G - Uniting Community Water Resources Modeling and Operational Hydrology: Connecting Research Advances in Large-Domain Hydrologic Modeling, Artificial Intelligence, Hydroinformatics, and Social Science to Forecasting Applications II Oral. 10:30–12:00. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284495>
-
-Primary Convener: Steven J Burian, University of Alabama
-
-Conveners: Martyn P Clark, University of Calgary; Katie van Werkhoven, Research Triangle Institute; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: Katie van Werkhoven, Research Triangle Institute; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Student/Early Career Convener: Louise Arnal, Ouranos
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Wednesday, 9 December 2026, 10:30–12:00  
-3016 - West (MC)
-
-</details>
-
-<details>
-<summary>Session: H33H - Uniting Community Water Resources Modeling and Operational Hydrology: Connecting Research Advances in Large-Domain Hydrologic Modeling, Artificial Intelligence, Hydroinformatics, and Social Science to Forecasting Applications III Oral. 14:15–15:45. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284496>
-
-Primary Convener: Steven J Burian, University of Alabama
-
-Conveners: Martyn P Clark, University of Calgary; Katie van Werkhoven, Research Triangle Institute; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Steven J Burian, Cooperative Institute for Research to Operations in Hydrology (CIROH), Alabama Water Institute, The University of Alabama, Tuscaloosa, AL
-
-Student/Early Career Convener: Louise Arnal, Ouranos
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Wednesday, 9 December 2026, 14:15–15:45  
-3016 - West (MC)
-
-</details>
-
-<details>
-<summary>Session: H33T - Uniting Community Water Resources Modeling and Operational Hydrology: Connecting Research Advances in Large-Domain Hydrologic Modeling, Artificial Intelligence, Hydroinformatics, and Social Science to Forecasting Applications IV Poster. 14:15–17:45. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283085>
-
-Primary Convener: Steven J Burian, University of Alabama
-
-Conveners: Martyn P Clark, University of Calgary; Katie van Werkhoven, Research Triangle Institute; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: Steven J Burian, Cooperative Institute for Research to Operations in Hydrology (CIROH), Alabama Water Institute, The University of Alabama, Tuscaloosa, AL; Martyn P Clark, University of Calgary; Katie van Werkhoven, Research Triangle Institute; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Student/Early Career Convener: Louise Arnal, Ouranos
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Wednesday, 9 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
 
 </details>
 
@@ -883,25 +559,6 @@ Full session: Thursday, 10 December 2026, 08:30–10:00
 </details>
 
 <details>
-<summary>Talk: IN41A-08 Increasing the Usability of Earth Observation Mission Datasets. 09:40–09:50. First author: Jessica Scheick.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2091239>
-
-Authors: Jessica Scheick, University of New Hampshire; Andrew P Barrett, National Snow and Ice Data Center (NSIDC), CIRES, University of Colorado Boulder; Zachary Fair, University of Maryland College Park; Luis Lopez Espinosa, National Snow and Ice Data Center; Tasha Snow, University of Maryland College Park; Aimee Renee Neeley, NASA Goddard Space Flight Center; Anthony A Arendt, University of Alaska Fairbanks; Zachary Katz, Colorado School of Mines; Chancelor Roberts, Scripps Institution of Oceanography, University of California San Diego; Benjamin Eaton Smith, University of Washington; Rachel Wegener, University of Maryland, College Park
-
-NASA-Openscapes Mentors and collaborators: Aimee Neeley; Jessica Scheick
-
-Session: [IN41A - Standards, Quality, Stewardship, and Solidarity: Building Flourishing Science Commons I Oral](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/285476)
-
-Presentation: Thursday, 10 December 2026, 09:40–09:50  
-2020 - West (MC)
-
-Full session: Thursday, 10 December 2026, 08:30–10:00  
-2020 - West (MC)
-
-</details>
-
-<details>
 <summary>Talk: IN44A-07 How NASA's Earth Science archive adapts to AI/ML and other emerging user workflows. 17:15–17:25. First author: Timothy D Goff.</summary>
 
 <https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2083546>
@@ -955,43 +612,7 @@ Session: [A43L - Advances in Aquatic, Atmospheric, and Terrestrial Science with 
 Poster session: Thursday, 10 December 2026, 14:15–17:45  
 South - Poster Hall (Hall ABC) (MC)
 
-</details>
-
-<details>
-<summary>Poster: H43D-1153 Building the Hydrologic Workforce through Community Learning Infrastructure: HydroLearn and the CUAHSI Virtual University. 14:15–17:45. First author: Courtney Di Vittorio.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2093452>
-
-Authors: Courtney Di Vittorio, Wake Forest University; Julia Masterman, Consortium of Universities for the Advancement of Hydrologic Science, Inc.; Emad Habib, University of Louisiana at Lafayette; David G Tarboton, Utah State University; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Session: [H43D - Advancing Capabilities for Hydrology Community Model and Data Infrastructure III Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/280206)
-
-Poster session: Thursday, 10 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
-
 **Sessions**
-
-<details>
-<summary>Session: H41A - Advancing Capabilities for Hydrology Community Model and Data Infrastructure I Oral. 08:30–10:00. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284507>
-
-Primary Convener: David G Tarboton, Utah State University
-
-Conveners: Martyn P Clark, University of Calgary; Laura E Condon, University of Arizona; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: David G Tarboton, Utah State University; Martyn P Clark, University of Calgary; Laura E Condon, University of Arizona; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Thursday, 10 December 2026, 08:30–10:00  
-3016 - West (MC)
-
-</details>
 
 <details>
 <summary>Session: IN41A - Standards, Quality, Stewardship, and Solidarity: Building Flourishing Science Commons I Oral. 08:30–10:00. Collaborators: Kate Wing.</summary>
@@ -1011,41 +632,6 @@ Thursday, 10 December 2026, 08:30–10:00
 
 </details>
 
-<details>
-<summary>Session: H42A - Advancing Capabilities for Hydrology Community Model and Data Infrastructure II Oral. 10:30–12:00. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/284508>
-
-Primary Convener: David G Tarboton, Utah State University
-
-Conveners: Martyn P Clark, University of Calgary; Laura E Condon, University of Arizona; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: David G Tarboton, Utah State University; Martyn P Clark, University of Calgary; Laura E Condon, University of Arizona; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Thursday, 10 December 2026, 10:30–12:00  
-3016 - West (MC)
-
-</details>
-
-<details>
-<summary>Session: H43D - Advancing Capabilities for Hydrology Community Model and Data Infrastructure III Poster. 14:15–17:45. Collaborators: Jordan S Read.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/280206>
-
-Primary Convener: David G Tarboton, Utah State University
-
-Conveners: Martyn P Clark, University of Calgary; Laura E Condon, University of Arizona; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-Chairs: David G Tarboton, Utah State University; Martyn P Clark, University of Calgary; Laura E Condon, University of Arizona; Jordan Stuart Read, Consortium of Universities for the Advancement of Hydrologic Science, Inc.
-
-NASA-Openscapes Mentors and collaborators: Jordan S Read
-
-Thursday, 10 December 2026, 14:15–17:45  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
 
 <details>
 <summary>Session: IN43A - Standards, Quality, Stewardship, and Solidarity: Building Flourishing Science Commons II Poster. 14:15–17:45. Collaborators: Kate Wing.</summary>
@@ -1122,18 +708,3 @@ South - Poster Hall (Hall ABC) (MC)
 
 </details>
 
-<details>
-<summary>Poster: SY51H-2270 Geophysical AI-driven Integration and Assimilation (GAIA) — Introducing an Open Cyberinfrastructure for Coupled Geohazards. 08:30–12:00. First author: Marine Denolle.</summary>
-
-<https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Paper/2079471>
-
-Authors: Marine Denolle, University of Washington; Abdullah Al Mehedi, University of Washington; Mario Angarita, University of Alaska Fairbanks; Shuyi S Chen, University of Washington; Nicoleta C Cristea, University of Washington; Ronni Grapenthin, University of California Berkeley; Scott T Henderson, University of Washington; Adytia Grover, University of California Los Angeles; Erkan Istanbulluoglu, University of Washington; Michael Hemmett, University of Washington; Hunter Jimenez, University of Washington; Joseph H Kennedy, University of Alaska Fairbanks; Brandon W Kerns, University of Washington; Vikram Iyer, University of Washington; Akash Kharita, Indian Institute of Technology Roorkee; Manuela Köpfli, University of Washington; Vani Mandava, University of Washington; David Mencin, EarthScope Consortium; Franz Josef Meyer, University of Alaska Fairbanks; Yiyu Ni, University of Washington Seattle Campus; Abigail L S Swann, University of Washington; Brett Maurer, University of Washington; Carl Tape, University of Alaska Fairbanks; Michael Edwin West, Univ Alaska Fairbanks; Morgan Sanger, University of Washington; Derek Yao, University of Washington
-
-NASA-Openscapes Mentors and collaborators: Joe Kennedy
-
-Session: [SY51H - Open-Source Tools for the Earth and Space Sciences: Breaking Discipline Silos to Accelerate Discovery II Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/282486)
-
-Poster session: Friday, 11 December 2026, 08:30–12:00  
-South - Poster Hall (Hall ABC) (MC)
-
-</details>
