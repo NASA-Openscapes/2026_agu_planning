@@ -281,7 +281,7 @@ South - Poster Hall (Hall ABC) (MC)
 
 Authors: Mahsa Jami, KBR, Inc., contractor to the U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center; Erik Bolch, KBR, Inc., contractor to the U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center; Nathan Roberts, KBR, Contractor to USGS EROS Center - South Dakota; Cole Krehbiel, USGS Earth Resources Observation and Science (EROS) Center Sioux Falls; Aafaque Aafaque, Innovate!, Inc. contractor to the USGS EROS Center; Justin Koch, United Support Services, contractor to the USGS EROS Center; Ryan Waters, Element 84, contractor to the USGS EROS Center; Joseph Nugteren, KBR, Inc. contractor to the U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center
 
-NASA-Openscapes Mentors and collaborators: Nathan Roberts; Erik Bolch
+NASA-Openscapes Mentors and collaborators: Mahsa Jami, Nathan Roberts; Erik Bolch
 
 Session: [IN23C - Advancing Earth Science Data in Cloud Environments II Poster](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/282615)
 
