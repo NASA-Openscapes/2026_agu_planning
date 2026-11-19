@@ -13,7 +13,7 @@ Below is information about workshops, talks, posters, sessions, town halls, and 
 <details>
 <summary>When are people there? Please add yourself!</summary>
 
-- Add your name and arrival/departure dates.
+- Julie, Sunday-Friday!
 
 </details>
 
